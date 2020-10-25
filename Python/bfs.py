@@ -45,14 +45,22 @@ def bfs(graph: dict, node: str):
     return results
 
 
-# DEMO
-graph = {"A": ["B", "C", "E"], "B": ["A", "D", "E"], "C": ["A", "F"], "D": ["F", "B"], "E": ["A", "B"], "F": ["C", "D"]}
+if __name__ == "__main__":
+    # DEMO
+    graph = {
+        "A": ["B", "C", "E"],
+        "B": ["A", "D", "E"],
+        "C": ["A", "F"],
+        "D": ["F", "B"],
+        "E": ["A", "B"],
+        "F": ["C", "D"],
+    }
 
-# show the BFS path from node 'E'
-res = bfs(graph, "E")
+    # show the BFS path from node 'E'
+    res = bfs(graph, "E")
 
-# starting at a node that is not in the graph
-try:
-    res = bfs(graph, "Z")
-except Exception as e:
-    print(f"{e}")
+    # starting at a node that is not in the graph
+    try:
+        res = bfs(graph, "Z")
+    except Exception as e:
+        print(f"{e}")
