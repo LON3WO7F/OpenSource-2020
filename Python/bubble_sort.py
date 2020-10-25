@@ -40,7 +40,10 @@ def bubble_sort(given_list):
 def test_bubble_sort():
     assert bubble_sort([]) == []
     assert bubble_sort([1]) == [1]
-    assert bubble_sort([9, 8, 7, 6, 5, 4, 3, 2, 1, 0]) == [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    assert bubble_sort([9, 8, 7, 6, 5, 4, 3, 2, 1, 0]) == [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     assert bubble_sort([1, 2, 3, 3, 3, 3, 3]) == [1, 2, 3, 3, 3, 3, 3]
     assert bubble_sort([1.23, 1.32, 3.89, 2.333]) == [1.23, 1.32, 2.333, 3.89]
     assert bubble_sort([1, 9, 2, 8, 3, 7, 4, 6, 5]) == [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+
+test_bubble_sort()
