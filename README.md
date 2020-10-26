@@ -5,3 +5,6 @@
 ## :thumbsup: About 
 You Can Submit As Many Pull Requests As You Want As Long As All Of Them Are Unique <br/>And Useful 
 Programs Written In Any Language 
+
+## :star: Star
+Don't Forget to Star this repo.
