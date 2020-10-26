@@ -1,11 +1,13 @@
 <h1 align="center">HacktoberFest 2020</h1>
+![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97133116-eaea5800-176e-11eb-9f4d-132ad1c11d9f.jpg)
 
-![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97106940-9ef5cf80-16ea-11eb-89dc-5c39c165c682.jpg)
+## :thumbsup: About 
+You Can Submit As Many Pull Requests As You Want As Long As All Of Them Are Unique <br/>And Useful 
+Programs Written In Any Language 
 
-## :thumbsup: | About |
+## :star: Star
+Don't Forget to Star this repo.
 
-You Can Submit As Many Pull Requests As You Want As Long As All Of Them Are Unique And Useful <br/>
-Programs Written In Any Language :thumbsup:
 
 ## Table of Contents
 
