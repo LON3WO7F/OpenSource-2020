@@ -1,5 +1,5 @@
 # Factorial of a Number
-# Contributed by: [Mahima](https://github.com/MAHIMA01)
+# Contributed by: Mahima
 
 # User may input any number whose Factorial needs to be obtained.
 n = int(input("Enter a number: "))
