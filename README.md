@@ -1,5 +1,7 @@
 <h1 align="center">HacktoberFest 2020</h1>
-![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97133116-eaea5800-176e-11eb-9f4d-132ad1c11d9f.jpg)
+
+![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97261595-23f4fc00-1845-11eb-9a10-965d2c82e91f.jpg)
+
 
 ## :thumbsup: About 
 You Can Submit As Many Pull Requests As You Want As Long As All Of Them Are Unique <br/>And Useful 
