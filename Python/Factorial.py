@@ -1,3 +1,5 @@
+# Factorial of a Number
+
 # User may input any number whose Factorial needs to be obtained.
 n = int(input("Enter a number: "))
 
