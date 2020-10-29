@@ -1,11 +1,13 @@
-<h1 align="center">HacktoberFest 2020</h1>
+<h1 align="center">HacktoberFest 2020 :jack_o_lantern:</h1>
+<h3 align="center">OpenSource-2020</h3>
 
 ![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97261595-23f4fc00-1845-11eb-9a10-965d2c82e91f.jpg)
 
 
 ## :thumbsup: About 
-You Can Submit As Many Pull Requests As You Want As Long As All Of Them Are Unique <br/>And Useful 
-Programs Written In Any Language 
+
+This project aims to help the beginners to make their first contribution. You can submit as many pull requests as you want as long as all of them are unique and 
+useful programs written in any given language 
 
 ## :star: Star
 Don't Forget to Star this repo.
@@ -21,3 +23,7 @@ Don't Forget to Star this repo.
 | [bubble_sort.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/bubble_sort.py)                   | Bubble Sort Implementation         |
 | [cleaning_data_for_ml.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/cleaning_data_for_ml.py) | code for cleaning text data for ML |
 | [merge_sort.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/merge_sort.py)                     | Merge Sort Implementation          |
+
+
+
+## Happy Learning! :tada:
