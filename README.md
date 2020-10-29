@@ -5,8 +5,9 @@
 
 ![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97261595-23f4fc00-1845-11eb-9a10-965d2c82e91f.jpg)
 
-![open-source2020](https://img.shields.io/badge/Welcome-OpenSource2020-blueviolet) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/pretty-risque.svg)](https://forthebadge.com) 
 
+![open-source2020](https://img.shields.io/badge/Welcome-OpenSource2020-blueviolet) 
 ## :thumbsup: About 
 
 This project aims to help the beginners to make their first contribution. You can submit as many pull requests as you want as long as all of them are unique and 
@@ -35,3 +36,4 @@ Don't Forget to Star this repo.
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]() 
 
 ## Happy Learning! :tada:
+ [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
