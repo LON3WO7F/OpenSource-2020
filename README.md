@@ -5,6 +5,8 @@
 
 ![ezgif com-webp-to-jpg](https://user-images.githubusercontent.com/40224985/97261595-23f4fc00-1845-11eb-9a10-965d2c82e91f.jpg)
 
+
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/pretty-risque.svg)](https://forthebadge.com) 
 
 ![open-source2020](https://img.shields.io/badge/Welcome-OpenSource2020-blueviolet) 
@@ -17,23 +19,36 @@ useful programs written in any given language
 ## Project setup [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 
+* Fork this repo
+* Clone on your local machine
+    ```
+        $ git clone https://github.com/LON3WO7F/OpenSource-2020.git
+    ```
+* Change to `OpenSource-2020` directory
+    ```
+        $ cd OpenSource-2020
+    ```
+* Create a new branch
+    ```
+        $ git checkout -b my-new-branch
+    ```
+* Add your contribution
+* Commit and push
+    ```
+        $ git add .
+    ```
+    ```
+        $ git commit -m "your-commit-msg"
+    ```
+    ```
+        $ git push origin my-new-branch
+    ```
+* Create a new pull request from your forked repository to `master` branch of `LON3WO7F/OpenSource-2020`
 
-## :star: Star
-Don't Forget to Star this repo.
-
-
-## Table of Contents
-
-### Python codes
-
-| File Name                                                                                                         | Description                        |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| [binary_search.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/binary_search.py)               | Binary Search implementation       |
-| [bubble_sort.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/bubble_sort.py)                   | Bubble Sort Implementation         |
-| [cleaning_data_for_ml.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/cleaning_data_for_ml.py) | code for cleaning text data for ML |
-| [merge_sort.py](https://github.com/LON3WO7F/OpenSource-2020/blob/master/Python/merge_sort.py)                     | Merge Sort Implementation          |
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]() 
+
+
 
 ## Happy Learning! :tada:
  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) 
