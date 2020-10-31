@@ -48,7 +48,8 @@ useful programs written in any given language
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/LON3WO7F/OpenSource-2020)]() [![GitHub fork](https://img.shields.io/github/forks/LON3WO7F/OpenSource-2020?style=social)]()   [![GitHub lissues-pr-closed-raw](https://img.shields.io/github/issues-pr-closed-raw/LON3WO7F/OpenSource-2020)]()  [![GitHub lissues-pr-closed-raw](https://img.shields.io/github/languages/count/LON3WO7F/OpenSource-2020)]()
 
-
+<br />
+<br />
 
 
 ## Happy Learning! :tada:
